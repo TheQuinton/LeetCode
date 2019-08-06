@@ -18,6 +18,6 @@ const insertIntoBST = (root, val) => {
 
 /**
  * Stats
- * Runtime: 108 ms, faster than 75.25% of JavaScript online submissions for Insert into a Binary Search Tree.
+ * Runtime: 100 ms, faster than 95.34% of JavaScript online submissions for Insert into a Binary Search Tree.
  * Memory Usage: 41.8 MB, less than 89.19% of JavaScript online submissions for Insert into a Binary Search Tree.
  */
